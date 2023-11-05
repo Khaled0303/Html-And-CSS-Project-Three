@@ -1,0 +1,172 @@
+/* Start Padding && Margen */
+.p-0{
+    padding: 0;
+}
+.p-10-0{
+    padding: 10px 0;
+}
+.pr-10{
+    padding-right: 10px;
+}
+.pl-10{
+    padding-left: 10px;
+}
+.p-20{
+    padding: 20px;
+}
+.p-20-0{
+    padding: 20px 0;
+}
+.p-10-20{
+    padding: 10px 20px;
+}
+.p-25{
+    padding: 25px;
+}
+.pl-25{
+    padding-left: 25px;
+}
+.m-0{
+    margin: 0;
+}
+.m-20{
+    margin: 20px;
+}
+.m-15-0{
+    margin: 15px 0;
+}
+.m-20-0{
+    margin: 20px 0;
+}
+.mr-20{
+    margin-right: 20px;
+}
+.mr-15{
+    margin-right: 15px;
+}
+.ml-10{
+    margin-left: 10px;
+}
+.ml-15{
+    margin-left: 15px;
+}
+.mt-20{
+    margin-top: 20px;
+}
+.mb-15{
+    margin-bottom: 15px;
+}
+.mb-20{
+    margin-bottom: 20px;
+}
+.m-50-0{
+    margin: 50px 0;
+}
+/* End Padding && Margen */
+/* Start Dis play && Position */
+.p-re{
+    position: relative;
+}
+.p-ab{
+    position: absolute;
+}
+.flex-bt{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.d-f{
+    display: flex;
+}
+.a-c{
+    align-items: center;
+}
+.j-c{
+    justify-content: center;
+}
+.flex-1{
+    flex: 1;
+}
+.d-g{
+    display: grid;
+}
+.g-30{
+    gap: 30px;
+}
+.g-40{
+    gap: 40px;
+}
+.d-n{
+    display: none;
+}
+.d-b{
+    display: block;
+}
+/* End Dis play && Position */
+/* Start Fonts && Colors */
+.fs-18{
+    font-size: 18px;
+}
+.fs-20{
+    font-size: 20px;
+}
+.fs-25{
+    font-size: 25px;
+}
+.fs-30{
+    font-size: 30px;
+}
+.fs-40{
+    font-size: 40px;
+}
+.fw-b{
+    font-weight: bold;
+}
+.fw-400{
+    font-weight: 400;
+}
+.fw-900{
+    font-weight: 900;
+}
+.c-w{
+    color: white;
+}
+.bg-w{
+    background-color: white;
+}
+.c-main{
+    color: #fb5b21;
+}
+.bg-main{
+    background-color: #fb5b21;
+}
+.c-b{
+    color: black;
+}
+.bg-333{
+    background-color: #333;
+}
+.c-888{
+    color: #888;
+}
+.ta-c{
+    text-align: center;
+}
+/* End Fonts && Colors */
+/* Start Others */
+.bor-rad{
+    border-radius: 8px;
+}
+.tran{
+    transition: .4s;
+}
+.full-h{
+    height: 100%;
+}
+.full-w{
+    width: 100%;
+}
+.lin-h{
+    line-height: 1.6;
+}
+/* End Others */
